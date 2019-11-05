@@ -7,4 +7,5 @@ else:
         print('two')
     else:
         print('one')
+        print('three')
     print("nnn")
